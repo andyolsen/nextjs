@@ -1,0 +1,15 @@
+body {
+	margin: 0 2px;
+	font-family: 'Segoe UI', sans-serif;
+}
+
+.banner {
+	background-color: #1199ff;	
+  color: white;
+  font-size: 2em;
+  padding: 4pt 2pt;
+}
+
+.error {
+  color: orangered;
+}

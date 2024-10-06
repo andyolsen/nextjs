@@ -1,0 +1,8 @@
+.panel {
+	background-color: lightcoral;
+  color: white;
+  width: 100%;
+  height: 400px;
+  padding: 2pt 0pt 2pt 2pt;
+  border-bottom: 3px slategray solid;
+}

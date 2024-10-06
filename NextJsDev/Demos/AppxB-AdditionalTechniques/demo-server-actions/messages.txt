@@ -1,0 +1,8 @@
+
+writeMessageToFile() invoked at Sun Oct 06 2024 17:19:55 GMT+0100 (British Summer Time) with message Howdy from Example2
+writeMessageToFile() invoked at Sun Oct 06 2024 17:20:15 GMT+0100 (British Summer Time) with message DEFAULT
+writeMessageToFile() invoked at Sun Oct 06 2024 17:20:15 GMT+0100 (British Summer Time) with message DEFAULT
+writeMessageToFile() invoked at Sun Oct 06 2024 17:20:17 GMT+0100 (British Summer Time) with message Howdy from Example2
+writeMessageToFile() invoked at Sun Oct 06 2024 17:20:17 GMT+0100 (British Summer Time) with message Howdy from Example2
+writeMessageToFile() invoked at Sun Oct 06 2024 17:20:36 GMT+0100 (British Summer Time) with message DEFAULT
+writeMessageToFile() invoked at Sun Oct 06 2024 17:20:36 GMT+0100 (British Summer Time) with message DEFAULT

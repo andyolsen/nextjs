@@ -1,0 +1,10 @@
+.panel {
+  display: inline-block;
+  padding: 1px;
+  width: 500px;
+  height: 500px;
+  margin-right: 2px;
+  background-color: lightgreen;
+  color: white;
+  font-size: 2em;
+}

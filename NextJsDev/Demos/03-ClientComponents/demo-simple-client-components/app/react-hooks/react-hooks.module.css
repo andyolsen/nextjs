@@ -1,0 +1,8 @@
+.formLine {
+  margin-bottom: 1em;
+}
+
+.formLine label {
+  display: inline-block;
+  width: 100px;
+}

@@ -1,0 +1,22 @@
+.secondLevelMenu {
+	background-color: coral;	
+  color: white;
+  padding: 2pt 0pt 5pt;
+}
+
+.secondLevelMenu a {
+	background-color: coral;	
+  color: white;
+  text-decoration: none;
+  padding: 0pt 12pt 0pt 2pt;
+}
+
+.secondLevelMenu a:hover {
+  color: coral;
+  background-color: white;
+}
+
+.secondLevelMenu input {
+  float: right;
+  margin: 1pt 5pt;
+}

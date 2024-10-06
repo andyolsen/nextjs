@@ -1,0 +1,17 @@
+.menu {
+	background-color: #1199ff;	
+  color: white;
+  padding: 2pt 0pt 5pt;
+}
+
+.menu a {
+	background-color: #1199ff;	
+  color: white;
+  text-decoration: none;
+  padding: 0pt 10pt 0pt 2pt;
+}
+
+.menu a:hover {
+  color: #1199ff;
+  background-color: white;
+}
